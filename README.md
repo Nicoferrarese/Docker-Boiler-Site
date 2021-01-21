@@ -1,4 +1,4 @@
-# Deploy Django in Production
+# Deploy Django 
 
 Boilerplate code to deploy a Django project using Docker Compose in a production environment.
 
